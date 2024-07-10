@@ -1,0 +1,41 @@
+.card {
+  height: 550px;
+
+  width: 550px;
+
+  background-color: blueviolet;
+
+  display: flex;
+
+  flex-direction: column;
+}
+
+.rose-container {
+  display: flex;
+
+  flex-direction: row;
+
+  height: 200px;
+
+  width: 200px;
+}
+
+.lilly-container {
+  display: flex;
+
+  flex-direction: row;
+
+  height: 200px;
+
+  width: 200px;
+}
+
+.sunflower-container {
+  display: flex;
+
+  flex-direction: column;
+
+  height: 200px;
+
+  width: 80px;
+}
